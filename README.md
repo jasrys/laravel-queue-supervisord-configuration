@@ -1,5 +1,5 @@
 ## Setup
-* Follow [Supervisord’s installation instructions](http://supervisord.org/installing.html) ).
+* Follow [Supervisord’s installation instructions](http://supervisord.org/installing.html).
 * Place the `laravel_queue.conf` file in your `/etc/supervisord.conf` directory
 * Run `$BINDIR/supervisord` to boot up supervisord. You may need to have root privileges. 
 * Run `$BINDIR/supervisorctl` to open the supervisord shell console. You may need to have root privileges.
